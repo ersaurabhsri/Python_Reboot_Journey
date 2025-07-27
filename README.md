@@ -64,4 +64,5 @@ This repo isn’t about perfection—it's about **growth, consistency, and learn
 If you're learning Python too, I’d love to hear from you!
 
 Happy coding! 🐍
-\- *\[Saurabh Shriwastav]*
+
+Saurabh Shriwastav
