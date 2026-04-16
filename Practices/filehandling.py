@@ -9,6 +9,6 @@ print(data)
 # Write data in file
 
 f.write("This is new line")
-#print(data)
-  
+#print(data)   
+
 f.close()
