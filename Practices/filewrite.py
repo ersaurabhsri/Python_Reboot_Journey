@@ -1,8 +1,7 @@
+# Writing a file in Python, there are mainly 3 common ways/modes used:
+lines=["Hello\n","Python\n","File handling\n"]
 
-data = f.readline()
-print(data)
+f = open("writedata.txt","w")
 
-Write data in file
-
-f.write("This is new line")
-print(data)  
+# f.write("This is 2nd line")
+f.writelines(lines)
