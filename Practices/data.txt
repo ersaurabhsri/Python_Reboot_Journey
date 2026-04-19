@@ -1,6 +1,4 @@
 Hi, I am DevOps Engineer.
 Good to know!
-
 Are you working on Automation and security.
-
-Yes!This is new lineThis is new lineThis is new lineThis is new line
+Yes!
